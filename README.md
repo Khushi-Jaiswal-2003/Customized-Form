@@ -1,4 +1,4 @@
-A responsive and interactive feedback form built using **React** and **Tailwind CSS**. The form includes fields for user details, checkboxes for email notifications, and radio buttons for push preferences — all styled cleanly with Tailwind.
+A responsive and interactive feedback form built using **React** and **Tailwind CSS**. The form includes fields for user details, checkboxes for email notifications, and radio buttons for push preferences all styled cleanly with Tailwind.
 
 ## 🚀 Features
 
