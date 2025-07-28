@@ -9,8 +9,7 @@ A responsive and interactive feedback form built using **React** and **Tailwind 
 - Form data logging to console on submit
 
 ## 🖼️ Preview
-<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/892c4752-f178-4845-8f7f-760f9e530fdf" />
-
+<img width="1899" height="859" alt="image" src="https://github.com/user-attachments/assets/ad181636-db3e-41bb-9f56-0adcda0d3ac8" />
 
 ## 🛠️ Tech Stack
 
