@@ -38,7 +38,7 @@ function App() {
               type='text'
               name='firstName'
               id='firstName'
-              placeholder='Kartik'
+              placeholder='Name'
               value={FormData.firstName}
               onChange={changeHandler}
               className='w-full border border-gray-300 p-2 rounded'
