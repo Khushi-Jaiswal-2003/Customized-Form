@@ -38,7 +38,7 @@ function App() {
               type='text'
               name='firstName'
               id='firstName'
-              placeholder='Name'
+              placeholder='Kartik'
               value={FormData.firstName}
               onChange={changeHandler}
               className='w-full border border-gray-300 p-2 rounded'
@@ -67,7 +67,7 @@ function App() {
               type='text'
               name='email'
               id='email'
-              placeholder='kartik@gmail.com'
+              placeholder='xyz@gmail.com'
               value={FormData.email}
               onChange={changeHandler}
               className='w-full border border-gray-300 p-2 rounded"' />
@@ -240,8 +240,7 @@ function App() {
               value="Same as Email"
               onChange={changeHandler}
               checked={formData.pushNotifications === "Same as Email"}
-              className="mt-1"
-            />
+              className="mt-1"/>
             <div>
               <label htmlFor="pushEmail" className="font-medium">Same as Email</label>
               <p className="text-sm text-gray-600">Only notifications selected by email.</p>
