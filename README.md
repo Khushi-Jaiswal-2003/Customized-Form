@@ -1,5 +1,3 @@
-# 📝 React Feedback Form (Tailwind CSS)
-
 A responsive and interactive feedback form built using **React** and **Tailwind CSS**. The form includes fields for user details, checkboxes for email notifications, and radio buttons for push preferences — all styled cleanly with Tailwind.
 
 ## 🚀 Features
@@ -11,8 +9,8 @@ A responsive and interactive feedback form built using **React** and **Tailwind 
 - Form data logging to console on submit
 
 ## 🖼️ Preview
+<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/892c4752-f178-4845-8f7f-760f9e530fdf" />
 
-![Form Preview](screenshot.png) <!-- Optional: add an image of the form UI -->
 
 ## 🛠️ Tech Stack
 
